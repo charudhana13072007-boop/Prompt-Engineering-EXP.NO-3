@@ -44,4 +44,6 @@ Missing Word Prompting:
 
 OUTPUT:
 
+[EXPLORING DIFFERENT TYPES OF PROMPTS (3).pdf](https://github.com/user-attachments/files/28661640/EXPLORING.DIFFERENT.TYPES.OF.PROMPTS.3.pdf)
+
 RESULT: 
